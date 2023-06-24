@@ -1,0 +1,11 @@
+1. compare 2 number. number a same or not.
+2. sub string match of 2 string.
+3. reverse a number from 123456 to 6543321. input integer number not string.
+4. print series 1+2+3+4+....
+		1^1+2^2+3^3+....
+5. print patter dimond print.
+6. check armstrong number.
+7. print finacci number .
+8. factorial .
+9. prinme number.
+10. regular expression.
